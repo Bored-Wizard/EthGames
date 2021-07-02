@@ -1,0 +1,15 @@
+.header {
+    height: 8vh;
+    width: 100vw;
+    background-color: rgba(13, 71, 161, 0.8);
+    position: absolute;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+
+.hide {
+    top: -8vh;
+}

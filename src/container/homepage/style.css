@@ -1,0 +1,17 @@
+.homepage {
+    background-color: rgba(133, 0, 186, 0.5);
+    height: 80vh;
+    width: 90vw;
+    margin-top: 8vh;
+    padding: 5vh;
+}
+
+.mSection {
+    width: 20vw;
+    height: 70vh;  
+}
+
+.cSection {
+    width: 50vw;
+    height: 70vh;  
+}
